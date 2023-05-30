@@ -7,7 +7,7 @@ lower version.
 
 The follwing diagram illustrates the dependency graph:
 
-![image](www.plantuml.com/plantuml/png/SoWkIImgAStDuOhEoKnAYLNGrRLJ036JOz554Y4YoVX4aY0YIIXg75BpKe0s0000)
+![image](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuOhEoKnAYLNGrRLJ036JOz554Y4YoVX4aY0YIIXg75BpKe0s0000)
 
 # Reproduction
 
